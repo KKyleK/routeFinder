@@ -7,4 +7,5 @@ Run with:
 `$ make`
 
 Enter the size of grid you would like to solve. 
-NOTE: This problem has a time complexity of O(n!) Choosing a grid size of 7 or greater may take some time.
+
+NOTE: This problem has a time complexity of O(n!). Choosing a grid size of 7 or greater may take some time.
